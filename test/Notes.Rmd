@@ -1,0 +1,18 @@
+---
+title: "Notes"
+author: "Irene Vrbik"
+date: "29/05/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Testing this repo
+
+I could get this running but not Tiffany Timbers one. 
+
+## Notes
+
+- empty folders will not be tracked
